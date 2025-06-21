@@ -9,7 +9,7 @@ How to Contact Zoho Customer Care?
 
 Zoho has become one of the most popular cloud-based software suites for businesses around the world. Offering everything from customer relationship management to email hosting, finance tools, project management, and more, Zoho provides a wide range of services designed to help companies operate smoothly and efficiently.
 
-.. image:: start.png
+.. image:: click-care.png
    :alt: My Project Logo
    :width: 400px
    :align: center
